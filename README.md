@@ -1,3 +1,5 @@
+![Wireframe](frontend/img/wirefram.png)
+
 # Groq Conversational Chatbot using FastAPI
 
 ## Overview
